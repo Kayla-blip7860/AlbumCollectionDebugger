@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ICE Task 3 – Album Collection & Debugging
 
 ## 1. Introduction
@@ -71,3 +72,6 @@ Create the `screenshots` folder and add your own screenshot file before submitti
 
 This task provided practice in reading and debugging an existing React Native and TypeScript application. The corrections addressed validation conditions, the types used for album data, state updates, genre selection, list keys, and deletion logic. Testing the application with valid and invalid input helps confirm that albums are handled correctly and that the collection remains usable after items are added or removed.
 
+=======
+# AlbumCollectionDebugger
+>>>>>>> bd81e59dde14a8974d0cc03d4e0ab1981dcb1316
